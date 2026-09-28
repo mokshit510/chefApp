@@ -1,6 +1,7 @@
 {
   "name": "Scrim-s06ivf6",
   "description": "https://scrimba.com/learn-react-c0e/~0vs",
+  "type": "module",
   "scripts": {
     "start": "vite",
     "dev": "vite",
